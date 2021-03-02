@@ -50,9 +50,9 @@ color: #2f2519;
 } */
 
 .lolas_image1 {
-  width: 87%;
+  width: 82%;
   height: 100%;
-  margin-left: 5%;
+  margin-left: 8%;
 }
 .lolas_image2 {
 
@@ -64,6 +64,7 @@ color: #2f2519;
   height: 100%;
 
   margin-left: 19%;
+  margin-bottom: 0;
 }
 
 
@@ -138,13 +139,12 @@ width: auto;
 .header_greetings {
 font-family:'selimaregular','Alex Brush',  cursive;
 color: #012140;
-font-size: 6.5rem;
+font-size: 5.5rem;
 line-height: 1.0;
 text-align: center;
+margin-top: 10%;
+width: auto;
 
-
-margin-top: 5%;
-margin-right:  10%;
 }
 
 .video_greetings {
@@ -152,7 +152,7 @@ margin-right: 5%;
 }
 
 .container-fluid {
-  padding: 3%;
+  padding: 2%;
 
 
 }
@@ -214,7 +214,7 @@ left: 5%;
 }
 .parallax2 {
   /* The image used */
-background-image: url('https://raw.githubusercontent.com/nylanzxc/happy_birthday_lola/main/images/parallax2_offed.png');
+background-image: url('https://raw.githubusercontent.com/nylanzxc/happy_birthday_lola/main/images/parallax2_resized.png');
 
   /* Set a specific height */
   min-height: 350px;
@@ -228,7 +228,7 @@ background-image: url('https://raw.githubusercontent.com/nylanzxc/happy_birthday
 
 .parallax1 {
   /* The image used */
-background-image: url('https://raw.githubusercontent.com/nylanzxc/happy_birthday_lola/main/images/hydrangea_offed3.png');
+background-image: url('https://raw.githubusercontent.com/nylanzxc/happy_birthday_lola/main/images/hydrangea_resized.png');
 
   /* Set a specific height */
   min-height: 500px;
@@ -244,7 +244,7 @@ background-image: url('https://raw.githubusercontent.com/nylanzxc/happy_birthday
 
 .parallax3 {
   /* The image used */
-background-image: url('https://raw.githubusercontent.com/nylanzxc/happy_birthday_lola/main/images/hydrangea_offed3.png');
+background-image: url('https://raw.githubusercontent.com/nylanzxc/happy_birthday_lola/main/images/hydrangea_resized.png');
 
   /* Set a specific height */
   min-height: 350px;
