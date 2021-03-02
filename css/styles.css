@@ -214,7 +214,7 @@ left: 5%;
 }
 .parallax2 {
   /* The image used */
-background-image: url('C:/Users/Administrator/Desktop/Lolas_birthday_website/lolas_bday_website/images/parallax2_offed.png');
+background-image: url('https://raw.githubusercontent.com/nylanzxc/happy_birthday_lola/main/images/parallax2_offed.png');
 
   /* Set a specific height */
   min-height: 350px;
@@ -228,7 +228,7 @@ background-image: url('C:/Users/Administrator/Desktop/Lolas_birthday_website/lol
 
 .parallax1 {
   /* The image used */
-background-image: url('C:/Users/Administrator/Desktop/Lolas_birthday_website/lolas_bday_website/images/hydrangea_offed3.png');
+background-image: url('https://raw.githubusercontent.com/nylanzxc/happy_birthday_lola/main/images/hydrangea_offed3.png');
 
   /* Set a specific height */
   min-height: 500px;
@@ -244,7 +244,7 @@ background-image: url('C:/Users/Administrator/Desktop/Lolas_birthday_website/lol
 
 .parallax3 {
   /* The image used */
-background-image: url('C:/Users/Administrator/Desktop/Lolas_birthday_website/lolas_bday_website/images/hydrangea_offed3.png');
+background-image: url('https://raw.githubusercontent.com/nylanzxc/happy_birthday_lola/main/images/hydrangea_offed3.png');
 
   /* Set a specific height */
   min-height: 350px;
