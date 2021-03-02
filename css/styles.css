@@ -1,0 +1,258 @@
+body {
+  font-family: "Montserrat";
+margin: 0;
+}
+
+
+img{
+  width:100%;
+  max-width:100%;
+}
+
+.navbar{
+  position:fixed;
+  width:100%;
+  background-color:#fff;
+  z-index:10;
+  border-radius:0;
+  border-color:transparent;
+}
+.navbar-default .navbar-nav > li > a{
+  color:#000;
+
+}
+
+#title {
+ background-color: #feceab;
+
+color: #2f2519;
+
+}
+#title2 {
+ background-color: #feceab;
+
+color: #2f2519;
+
+}
+#title3 {
+ background-color: #feceab;
+
+color: #2f2519;
+
+}
+
+
+
+/* .div_title {
+  background-color: #feceab;
+  height: 100%;
+  width: 100%;
+} */
+
+.lolas_image1 {
+  width: 77%;
+  height: 100%;
+  margin-left: 12%;
+}
+.lolas_image2 {
+
+
+}
+
+.carousel-inner {
+  width: 62%;
+  height: 100%;
+
+  margin-left: 19%;
+}
+
+
+
+.home{
+  color: #feceab;
+
+
+
+display: inline-block;
+width: 49%;
+  margin-top: 18%;
+ margin-left: 10%;
+
+}
+.about {
+  color: #012140;
+
+display: inline-block;
+width: auto;
+  margin-top: 13%;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 15%;
+
+}
+.video_greetings {
+  color: #feceab;
+
+display: inline-block;
+width: auto;
+  margin-top: 13%;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 15%;
+
+}
+.about_anita {
+
+  font-size: 1.2rem;
+  font-family: 'Montserrat',  sans-serif;
+  font-weight: normal;
+  line-height: 2;
+  text-align: center;
+  margin-top: 10%;
+}
+
+.h2anita1 {
+  text-shadow: 2px 2px #012140;
+  font-size: 3rem;
+  font-family: 'Montserrat',  sans-serif;
+  font-weight: 900;
+  display: inline-block;
+}
+.h2anita2 {
+  text-shadow: 2px 2px #feceab;
+  font-size: 3rem;
+  font-family: 'Montserrat',  sans-serif;
+  font-weight: 900;
+  display: inline-block;
+
+}
+.h2anita3 {
+  text-shadow: 2px 2px #012140;
+  font-size: 3rem;
+  font-family: 'Montserrat',  sans-serif;
+  font-weight: 900;
+  display: inline-block;
+
+}
+
+.header_greetings {
+font-family:'selimaregular','Alex Brush',  cursive;
+color: #012140;
+font-size: 6.5rem;
+line-height: 1.0;
+text-align: center;
+transform: rotate(-18deg);
+
+margin-top: 5%;
+margin-right:  10%;
+}
+
+.video_greetings {
+margin-right: 5%;
+}
+
+.container-fluid {
+  padding: 3%;
+
+
+}
+.lola {
+  color: #da0030;
+}
+.div_con {
+  height: 450px;
+
+}
+
+/* Navigation Bar */
+
+.navbar {
+padding: 0;
+position: fixed;
+left: 0;
+right: 0;
+
+}
+
+.navbar-brand {
+  margin: 1%;
+height: 15%;
+width: 15%;
+
+position: relative;
+left: 5%;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat',  sans-serif;
+  font-weight: normal;
+}
+
+
+/* Donwload Buttons */
+
+.dl-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+
+/* parallax */
+
+.row {
+  height: auto;
+}
+.parallax2 {
+  /* The image used */
+background-image: url('C:/Users/Administrator/Desktop/Lolas_birthday_website/lolas_bday_website/images/parallax2_offed.png');
+
+  /* Set a specific height */
+  min-height: 350px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax1 {
+  /* The image used */
+background-image: url('C:/Users/Administrator/Desktop/Lolas_birthday_website/lolas_bday_website/images/hydrangea_offed3.png');
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+.parallax3 {
+  /* The image used */
+background-image: url('C:/Users/Administrator/Desktop/Lolas_birthday_website/lolas_bday_website/images/hydrangea_offed3.png');
+
+  /* Set a specific height */
+  min-height: 350px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
