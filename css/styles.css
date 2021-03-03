@@ -56,8 +56,7 @@ color: #2f2519;
   width: 65%;
 }
 .lolas_image2 {
-  height: 20%;
-  width: 20%
+
 
 }
 
@@ -168,7 +167,7 @@ width: auto;
 .header_greetings {
 font-family:'selimaregular','Alex Brush',  cursive;
 color: #012140;
-font-size:4.5rem;
+font-size:5.5rem;
 line-height: 1.0;
 text-align: center;
 margin-top: 10%;
@@ -225,6 +224,7 @@ left: 5%;
   font-weight: normal;
 
 }
+
 
 
 /* Donwload Buttons */
