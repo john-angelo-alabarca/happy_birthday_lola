@@ -108,7 +108,7 @@ text-align: right;
 }
 .about {
   color: #012140;
-
+text-align: center;
 display: inline-block;
 width: auto;
   margin-top: 13%;
@@ -199,12 +199,12 @@ width: auto;
 .header_greetings {
 font-family:'selimaregular','Alex Brush',  cursive;
 color: #012140;
-font-size:  5rem;
+font-size:  4.5rem;
 line-height: 1.0;
 text-align: center;
 margin-top: 10%;
-margin-left: auto;
-margin-right: auto;
+margin-left: 17%;
+
 width: 60%;
 
 text-shadow:  2px 4px  rgba(0, 0, 0, 0.2),  3px 7px  rgba(0, 0, 0, 0.19);
@@ -241,12 +241,12 @@ border-radius: 12px;
 
 }
 #anitamessage_div {
-
+height: 100%;
 }
 #anita_vidmessage {
   width: 90%;
   height: 90%;
-margin-top: 0;
+margin-top: 10%;
 margin-left: 5%;
   background-color: #ffe8e8;
   border: 2px none;
@@ -392,4 +392,5 @@ background-size: auto;
 }
 #arr {
   background-color: #ffe8e8;
+  height: 100%;
 }
