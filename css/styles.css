@@ -187,18 +187,16 @@ width: auto;
 }
 
 .header_greetings {
-
-
-
 font-family:'selimaregular','Alex Brush',  cursive;
 color: #012140;
-font-size:6.5rem;
+font-size:  9.5vw;
 line-height: 1.0;
 text-align: center;
 margin-top: 5%;
 margin-left: auto;
 margin-right: auto;
-width: 70%;
+width: auto;
+
 text-shadow:  2px 4px  rgba(0, 0, 0, 0.2),  3px 7px  rgba(0, 0, 0, 0.19);
 
 
