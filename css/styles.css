@@ -185,17 +185,27 @@ width: auto;
 
 
 }
+.h2anita4 {
+  text-shadow: 2px 2px #012140;
+  font-size: 3rem;
+  font-family: 'Montserrat',  sans-serif;
+  font-weight: 900;
+  display: inline-block;
+  margin-top: 10%;
+
+
+}
 
 .header_greetings {
 font-family:'selimaregular','Alex Brush',  cursive;
 color: #012140;
-font-size:  9.5vw;
+font-size:  5rem;
 line-height: 1.0;
 text-align: center;
-margin-top: 5%;
+margin-top: 10%;
 margin-left: auto;
 margin-right: auto;
-width: auto;
+width: 60%;
 
 text-shadow:  2px 4px  rgba(0, 0, 0, 0.2),  3px 7px  rgba(0, 0, 0, 0.19);
 
@@ -205,6 +215,13 @@ text-shadow:  2px 4px  rgba(0, 0, 0, 0.2),  3px 7px  rgba(0, 0, 0, 0.19);
 .video_greetings {
 margin-right: 7%;
 text-align: right;
+
+}
+.personal_message {
+    color: #feceab;
+text-align: center;
+margin: 0;
+
 
 }
 video {
@@ -221,6 +238,21 @@ border-radius: 12px;
 
 #videogreet_div {
   height: auto;
+
+}
+#anitamessage_div {
+
+}
+#anita_vidmessage {
+  width: 90%;
+  height: 90%;
+margin-top: 0;
+margin-left: 5%;
+  background-color: #ffe8e8;
+  border: 2px none;
+  border-radius: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 
 }
 .container-fluid {
@@ -333,4 +365,31 @@ background-size: auto;
   background-repeat: no-repeat;
   background-size: cover;
 
+}
+
+
+.parallax4 {
+  /* The image used */
+background-image: url('https://raw.githubusercontent.com/nylanzxc/happy_birthday_lola/main/images/hydrangea_natural.jpg');
+background-size: auto;
+  /* Set a specific height */
+  min-height: 450px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+#allrights {
+  text-align: center;
+  font-size: 0.9rem;
+}
+#dev {
+  text-align: center;
+  font-size: 0.7rem;
+}
+#arr {
+  background-color: #ffe8e8;
 }
